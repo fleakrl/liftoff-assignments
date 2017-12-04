@@ -9,4 +9,4 @@
 [R. Fleak's Git Hub](https://github.com/fleakrl)
 
 ## Linked In
-[R. Fleak's LinkedIn Profile](www.linkedin.com/in/rebecca-fleak-44846a101)
+www.linkedin.com/in/rebecca-fleak-44846a101
