@@ -5,18 +5,18 @@
 	Topic: Bootiful Testing
 	Presenters: Josh Long & Mario Gray
 
-#Topic Description:
+# Topic Description:
 	The topic discussed during the Java User's Group: Bootiful Testing 
 	primarily covered testing features included in Spring Boot and how
 	to test Spring Boot applications.  The presenters also covered some
 	basics of the benefits of testing and test driven development.  
 
-#Questions for Meetup:
+# Questions for Meetup:
 	- What are the common ways to test Spring Boot applications?
 	- How does testing a Spring application differ from testing
 		a regular Java application?
 
-#What I learned: 
+# What I learned: 
 	Benefits of Test Driven Development:
 		- Documentation
 			* Tests can aid in the write-up of documentation and tests
